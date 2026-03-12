@@ -1,4 +1,4 @@
-# Sistema de Gestão de Funcionários - Java Collections 🚀
+# Sistema de Gestão de Funcionários - Java Collections
 
 Este projeto foi desenvolvido por mim como um exercício prático de fixação dos conceitos de Java.
 
