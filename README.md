@@ -4,7 +4,7 @@ Este repositório contém o progresso dos meus estudos no curso de Java ministra
 
 ## Projetos no Repositório
 
-### 1. 👥 [Gestão de Funcionários](./src)
+### 1. 👥 [Gestão de Funcionários](./exercicio-funcionarios)
 **Foco:** Listas e Streams.
 * Manipulação de listas dinâmicas (`List` e `ArrayList`).
 * Uso de Expressões Lambda para busca de dados.
