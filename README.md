@@ -16,6 +16,12 @@ Este repositório contém o progresso dos meus estudos no curso de Java ministra
 * Uso de `StringBuilder` para otimização de strings.
 * Gestão de status de pedidos com Enums.
 
+### 3. 🗺️ [Gestão de Ocorrências (Conecta Bairro)](./proj-conecta-bairro)
+**Foco:** Tabelas Hash (`Map`), Listas e Enums.
+* Uso de `LinkedHashMap` para associar de forma eficiente cada usuário à sua lista de ocorrências.
+* Controle de estados de problemas urbanos utilizando Enumerações.
+* Criação de utilitários robustos de console para tratamento de erros de digitação (`InputMismatchException`).
+
 
 
 ---
